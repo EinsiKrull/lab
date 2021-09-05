@@ -1,0 +1,6 @@
+print("Halló")
+print("Hvernig ert þú í dag")
+print("Ég elska forittun")
+print("strife var ömurlegur moba")
+print("League of legends er besti moba i heiminum")
+print("\"Keep on rockin' in the free world\" sagði Nardwuar")
